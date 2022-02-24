@@ -1,12 +1,12 @@
 """
 This script contains the main class for the BPRMF model, using helper functions
-from sampling.py. It includes the methods for hyperparameter tuning and model
+from training_data_sampling.py. It includes the methods for hyperparameter tuning and model
 evaluation.
 """
 
 from hyperopt import hp, tpe, fmin, Trials
 
-from data.sampling import *
+from data.training_data_sampling import *
 
 
 class BPRMF:

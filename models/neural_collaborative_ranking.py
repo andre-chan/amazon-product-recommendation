@@ -1,6 +1,6 @@
 """
 This script contains the main class for the NCR model, that inherits from
-MFBPR and uses helper functions from sampling.py. It includes the methods
+MFBPR and uses helper functions from training_data_sampling.py. It includes the methods
 for hyperparameter tuning and model evaluation.
 """
 
