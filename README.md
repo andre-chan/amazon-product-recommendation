@@ -1,5 +1,7 @@
 # amazon-product-recommendation
 
+Thesis submitted for MSc Statistical Science (Oxford).
+
 Deep, pairwise ranking approaches to recommend Amazon products.
 
 Details on the implementations are explained in [the thesis](Deep%20Pairwise%20Ranking%20Approaches%20for%20Hybrid%20Recommender%20Systems.pdf).
