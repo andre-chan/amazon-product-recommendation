@@ -11,7 +11,7 @@ from keras.layers import Embedding, Input, Dense, multiply, concatenate, \
 from keras.optimizers import Adagrad, SGD, RMSprop
 from functools import partial
 
-from models.bprmf import *
+from models.bayesian_personalised_ranking import *
 
 
 class NCR(BPRMF):
