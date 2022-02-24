@@ -1,6 +1,6 @@
 # amazon-product-recommendation
 
-### Thesis submitted for MSc Statistical Science (2019) at University of Oxford.
+#### Thesis submitted for MSc Statistical Science (2019) at University of Oxford.
 
 Deep, pairwise ranking approaches to recommend Amazon products.
 
